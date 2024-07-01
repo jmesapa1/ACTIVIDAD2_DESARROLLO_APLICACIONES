@@ -1,0 +1,17 @@
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad_2_plataformas_de_desarrollo.Form1.resources
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.AssemblyInfo.cs
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\bin\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.exe
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\bin\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.deps.json
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\bin\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.runtimeconfig.json
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\bin\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.dll
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\bin\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.pdb
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.dll
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\refint\actividad 2 plataformas de desarrollo.dll
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.pdb
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad 2 plataformas de desarrollo.genruntimeconfig.cache
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\ref\actividad 2 plataformas de desarrollo.dll
+C:\Users\julia\Desktop\actividad 2 plataformas de desarrollo\obj\Debug\net8.0-windows\actividad_2_plataformas_de_desarrollo.frames.ResumenPedidoForm.resources
